@@ -29,3 +29,5 @@ Similar programs: https://forum.arduino.cc/t/fencing-scoring-machine/149087 and 
   # Circuit diagram
   Generate in TinkerCAD
   ![image](https://github.com/XiangyiTan/Arduino-Fencing-Scoring-Machine/assets/152521923/6aba27f2-2c98-4266-864b-dacfacbbf18c)
+  # Demostration
+  Demostration vedio avaliabe.
